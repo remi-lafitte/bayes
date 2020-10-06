@@ -1,1 +1,1 @@
-# bayes
+# bayesian statistics
